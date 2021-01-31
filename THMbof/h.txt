@@ -1,0 +1,5 @@
+bc = 00 07 08 2e 2f a0 a1
+
+\x00\x07\x08\x2e\2f\a0\a1
+
+!mona bytearray -cpd "\x00\x07\x2e\xa0"
